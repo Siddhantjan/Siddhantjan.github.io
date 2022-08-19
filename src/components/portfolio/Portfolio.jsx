@@ -1,29 +1,23 @@
 import React from 'react'
 import "./portfolio.css";
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/homepage.jpeg'
+import STAZER from '../../assets/stazer.png'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Stazer Service App",
-    github: "https://github.com",
-    demo: "https://google.com",
+    title: "FoodBox",
+    github: "https://github.com/Siddhantjan/FoodBox-Phase6-CapstoneProject",
+    demo: "",
   },
   {
     id: 2,
-    image: IMG1,
+    image: STAZER,
     title: "Stazer Service App",
     github: "https://github.com",
-    demo: "https://google.com",
-  },
-  {
-    id: 3,
-    image: IMG1,
-    title: "Stazer Service App",
-    github: "https://github.com",
-    demo: "https://google.com",
-  },
+    demo: "https://play.google.com/store/apps/details?id=stazer.user.androidstazerserviceapp",
+  }
 ];
 
 const Portfolio = () => {

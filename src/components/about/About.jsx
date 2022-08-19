@@ -35,14 +35,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hello Everyone! I am a fourth-year graduate student with a Btech in
-            Information Technology from Rajasthan Technical University in Kota.
-            I am a competitive programmer and full-stack developer. I enjoy
-            learning about new technologies and honing my logic-building
-            abilities in my spare time. I believe in problem-solving and am
-            endlessly energetic to try and connect abstract approaches. I focus
-            on creating visually compelling, meaningful experiences through
-            design.
+           I enjoy learning about new technologies and honing my logic-building abilities in my spare time. I believe in problem-solving and am endlessly energetic to try and connect abstract approaches. I focus on creating visually compelling, meaningful experiences through design.
           </p>
           <a href="#contact" className="btn btn-primary btn-contact">
             Let's Talk
