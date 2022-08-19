@@ -21,24 +21,28 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1+ years working</small>
+              <small>2+ years working</small>
             </article>
-            <article className="about__card">
+            {/* <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>clients</h5>
               <small>100+ Worldwide</small>
-            </article>
+            </article> */}
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>projects</h5>
-              <small>80+ completed</small>
+              <small>10+ completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias ab
-            tenetur accusantium blanditiis officiis illum error veritatis
-            maiores aspernatur. Fugiat, placeat. Veniam, cumque ea. Deleniti
-            harum aut voluptas voluptatum consequuntur?
+            Hello Everyone! I am a fourth-year graduate student with a Btech in
+            Information Technology from Rajasthan Technical University in Kota.
+            I am a competitive programmer and full-stack developer. I enjoy
+            learning about new technologies and honing my logic-building
+            abilities in my spare time. I believe in problem-solving and am
+            endlessly energetic to try and connect abstract approaches. I focus
+            on creating visually compelling, meaningful experiences through
+            design.
           </p>
           <a href="#contact" className="btn btn-primary btn-contact">
             Let's Talk
