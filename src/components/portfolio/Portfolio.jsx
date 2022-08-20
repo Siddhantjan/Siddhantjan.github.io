@@ -2,6 +2,8 @@ import React from 'react'
 import "./portfolio.css";
 import IMG1 from '../../assets/homepage.jpeg'
 import STAZER from '../../assets/stazer.png'
+import EXPENSE from '../../assets/expense.png'
+
 
 const data = [
   {
@@ -15,9 +17,17 @@ const data = [
     id: 2,
     image: STAZER,
     title: "Stazer Service App",
-    github: "https://github.com",
+    github: "https://github.com/Siddhantjan/Stazer-Service-App",
     demo: "https://play.google.com/store/apps/details?id=stazer.user.androidstazerserviceapp",
+  },
+  {
+    id: 3,
+    image: EXPENSE,
+    title: "Expense Tracker",
+    github: "https://github.com/Siddhantjan/Expenses-Calculator",
+    demo: "",
   }
+  
 ];
 
 const Portfolio = () => {
