@@ -17,14 +17,7 @@ const data = [
     title: "Stazer Service App",
     github: "https://github.com",
     demo: "https://play.google.com/store/apps/details?id=stazer.user.androidstazerserviceapp",
-  },
-  {
-    id: 3,
-    image: STAZER,
-    title: "Stazer Service App",
-    github: "https://github.com",
-    demo: "https://play.google.com/store/apps/details?id=stazer.user.androidstazerserviceapp",
-  },
+  }
 ];
 
 const Portfolio = () => {
