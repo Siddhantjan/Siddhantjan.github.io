@@ -25,9 +25,8 @@ const data = [
     image: EXPENSE,
     title: "Expense Tracker",
     github: "https://github.com/Siddhantjan/Expenses-Calculator",
-    demo: "",
+    demo: "https://siddhantjan.github.io/Expenses-Calculator/",
   }
-  
 ];
 
 const Portfolio = () => {
